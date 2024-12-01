@@ -1,0 +1,1 @@
+To run the game, please hover over the "from pacman", "from flappy_bird", "from tetris" code and click quick fix or Ctrl +. Please make sure to change the directory to the folder the codes are currently in.
